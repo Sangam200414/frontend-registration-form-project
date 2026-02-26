@@ -1,3 +1,5 @@
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 # 📄 O-Level Style Registration Form (Practice Project)
 
 This is a government-style registration form inspired by the O-Level examination form layout.  
