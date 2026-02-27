@@ -52,7 +52,7 @@ It is not an official government website and is not affiliated with NIELIT or an
 
 ---
 ## 📷 Project Preview
-Preview.png
+![Project Screenshot](Preview.png)
 
 
 ## 👨‍💻 Developed By
